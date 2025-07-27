@@ -1,0 +1,2 @@
+A test file with some text.
+This is a new line.
